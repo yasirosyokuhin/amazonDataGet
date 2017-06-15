@@ -3,7 +3,7 @@
 ## use lib 
    mecab
 
-## use python \lib
+## use python lib
 
     pip install mecab-python3
     pip install mojimoji
